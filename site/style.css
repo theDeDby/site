@@ -1,0 +1,81 @@
+.a {
+	padding: 5px;
+	text-decoration: none;
+	color: white;
+	font-style: normal;
+	border-radius: 9px;
+	font-weight:normal;
+	border-style: ridge;
+	border-width: 4px;
+	font-family:  'Trebuchet MS',serif;
+	font-size: 30px;
+	border-color:#708090;
+	text-align: center;
+	background:linear-gradient(180deg,#002f5b,rgb(1, 13, 41));
+}
+header{
+	text-align: center;
+	height:135px;
+}
+
+
+.main{
+	padding: 10px;
+	font-size: 0.9vw;
+	line-height:30px;
+	border-style: ridge;
+	border-radius: 10px;
+	border-width: 10px;
+	border-radius: 15px;
+	border-color:#1c1735;
+	background:#F8F6FF;
+	
+}
+ul{
+	font-size: 1.3vw;
+}
+
+body{
+	font-family:  'Times New Roman';
+}
+.hobby{
+	font-size: 1.8vw;
+	text-align: center;
+	border-style: ridge;
+	border-radius: 10px;
+	border-width: 10px;
+	background:#F8F6FF;
+	border-color:#1c1735;
+}
+.bio{
+	text-align: center;
+	font-size: 1.5vw;
+	line-height:30px;
+	border-style: ridge;
+	border-radius: 10px;
+	border-width: 10px;
+	background:#F8F6FF;
+	border-color:#1c1735;
+}
+.gallary{
+	line-height:40px;
+	text-align: center;
+	border-color:#1c1735;
+	font-size: 34px;
+}
+.gallary_ram{
+	border: inset;
+	border-width: 20px;
+	border-color:#1c1735;
+	border-radius: 15px;
+}
+.foot{
+	font-size: 1.2vw;
+	padding: 10px;
+	line-height:20px;
+	border-style: ridge;
+	border-radius: 10px;
+	border-width: 10px;
+	background:#F8F6FF;
+	border-color:#1c1735;
+}
